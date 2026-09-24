@@ -2,7 +2,7 @@
 
 > 一键克隆 macOS 应用，生成完全独立的分身，互不干扰、互不抢占。
 
-**⬇️ 最新版下载：** [点此前往 GitHub Release 最新版](https://github.com/anson55sky/Replica-Releases/latest)
+**⬇️ 最新版下载：** [点此前往 GitHub Release 最新版](https://github.com/anson55sky/Replica/latest)
 
 ---
 
@@ -42,7 +42,7 @@ Replica 是一款面向 macOS 的轻量应用克隆工具。它可以复制任�
 
 ## 安装教程
 
-1. 前往 [最新版下载](https://github.com/anson55sky/Replica-Releases/latest)，下载 `Replica.dmg`。
+1. 前往 [最新版下载](https://github.com/anson55sky/Replica/latest)，下载 `Replica.dmg`。
 2. 打开 DMG，将 `Replica.app` 拖入「应用程序」文件夹。
 3. 首次打开若提示「无法验证开发者」，请在「系统设置 → 隐私与安全性」中点击「仍要打开」。
 4. 启动 Replica，开始克隆。
@@ -57,12 +57,10 @@ Replica 是一款面向 macOS 的轻量应用克隆工具。它可以复制任�
 
 ## 截图预览
 
-> 本段落为占位，后续将替换为实际界面截图。
+![Replica 主界面](assets/screenshot-main.png)
 
-- **主界面**：克隆页 / 拖拽或点击选择源 App / 分身库列表
-- **设置页**：中英文切换、深浅色主题、版本号与「检查更新」
+> 主界面：克隆页 / 拖拽或点击选择源 App / 分身库列表
 
-截图文件将存放于仓库 `assets/` 目录，补图后在此处插入对应图片链接。
 
 ## 常见问题
 
@@ -78,6 +76,10 @@ Replica 是一款面向 macOS 的轻量应用克隆工具。它可以复制任�
   通用 App、Electron 系（VS Code、Discord 等）、Telegram、微信、QQ 等均已适配；部分强签名 / 公证 App 的个别功能（如 App Group 共享）在分身中可能不可用。
 
 ## 更新日志
+
+### v0.2.15
+- 仓库名改为 `anson55sky/Replica`，方便搜索；README 加入主界面截图
+- 更新器拉取地址同步指向新仓库
 
 ### v0.2.14
 - 新增 URL Scheme 隔离（分身不再与原版抢 `tg://`、`discord://`、`vscode://` 等协议）
