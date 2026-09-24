@@ -2,7 +2,7 @@
 
 > 一键克隆 macOS 应用，生成完全独立的分身，互不干扰、互不抢占。
 
-**⬇️ 最新版下载：** [点此前往 GitHub Release 最新版](https://github.com/anson55sky/Replica/latest)
+**⬇️ 最新版下载：** [点此前往 GitHub Release 最新版](https://github.com/anson55sky/Replica/releases/latest)
 
 ---
 
@@ -42,7 +42,7 @@ Replica 是一款面向 macOS 的轻量应用克隆工具。它可以复制任�
 
 ## 安装教程
 
-1. 前往 [最新版下载](https://github.com/anson55sky/Replica/latest)，下载 `Replica.dmg`。
+1. 前往 [最新版下载](https://github.com/anson55sky/Replica/releases/latest)，下载 `Replica.dmg`。
 2. 打开 DMG，将 `Replica.app` 拖入「应用程序」文件夹。
 3. 首次打开若提示「无法验证开发者」，请在「系统设置 → 隐私与安全性」中点击「仍要打开」。
 4. 启动 Replica，开始克隆。
